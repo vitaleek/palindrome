@@ -1,0 +1,1 @@
+This's short algoritm for searching maximal palindrome which is product of two 3-digits numbers. Main requirement is minimal quantity of  iterations.
